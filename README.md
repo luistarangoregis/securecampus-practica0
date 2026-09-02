@@ -12,3 +12,8 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 - Integrante 2
 - Integrante 3
 - Integrante 4
+
+
+## Seguridad
+
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
